@@ -1,2 +1,6 @@
 # Prevents API key from being seen on Github
-run_purepython.py
+meaningcloudkey.py
+
+# These files are recreated locally at run-time
+*.pyc
+

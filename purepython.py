@@ -1,7 +1,4 @@
-from run_purepython import *
-
-print get_meaningcloud_api_key()
-
+from meaningcloudkey import MEANINGCLOUD_KEY
 '''
 
 import requests
