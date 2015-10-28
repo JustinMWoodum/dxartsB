@@ -1,4 +1,4 @@
-import run_purepython
+from run_purepython import *
 
 print get_meaningcloud_api_key()
 
