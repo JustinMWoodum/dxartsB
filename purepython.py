@@ -1,4 +1,7 @@
 from meaningcloudkey import MEANINGCLOUD_KEY
+
+print MEANINGCLOUD_KEY
+
 '''
 
 import requests
