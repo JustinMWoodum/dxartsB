@@ -1,6 +1,6 @@
 import run_purepython
 
-print key
+print return_meaningcloud_api_key()
 
 '''
 
