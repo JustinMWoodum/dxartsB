@@ -1,5 +1,7 @@
 import run_purepython
 
+print key
+
 '''
 
 import requests
